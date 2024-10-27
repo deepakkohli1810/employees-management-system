@@ -5,11 +5,11 @@ import AdminDashboard from './components/Auth/Dashboard/AdminDashboard'
 const App = () => {
   return (
   < >
- 
-  {/* <Login/>
-  <EmployeesDashboard/> */}
-  <AdminDashboard/>
 
+  <Login/>
+  {/* <EmployeesDashboard/> */}
+  {/* <AdminDashboard/> */}
+  
   </>
   )
 }
