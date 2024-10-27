@@ -1,10 +1,11 @@
 import React from 'react'
-
+import Login from './components/Login'
 const App = () => {
   return (
-    <div className='text-white'>
-      This is deepak here
-    </div>
+  < >
+ 
+  <Login/>
+  </>
   )
 }
 
